@@ -1,5 +1,5 @@
-# trademarkiaproject
-Artificial Intelligence Engineer Intern Project 
+# TRADEMARKIA PROJECT FOR AI INTERN
+Artificial Intelligence Engineer Intern Project.
 The provided code is a Flask application that builds a recommendation system based on a dataset called "ID Manual." The goal is to provide recommended classes based on user input of goods and services. Here is a breakdown of the process:
 The code imports the necessary libraries: json, joblib, TfidfVectorizer from sklearn.feature_extraction.text, DecisionTreeClassifier from sklearn.tree, and Flask from flask.
 The Flask application is initialized with app = Flask(__name__).
